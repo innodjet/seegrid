@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project focus on building a chart that display the percentage (%) of the population of each countries
+on a selected year based on the "World" population at that particular year.
+
 ## Available Scripts
 
 In the project directory, you can run:
