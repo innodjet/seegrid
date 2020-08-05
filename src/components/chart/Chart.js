@@ -19,8 +19,8 @@ const Chart = ({ chartData, worldPopulation, selectedYear }) => {
   return (
     <div className="container">
       <p className="graph-title">
-        Countries population percentage in {selectedYear} based on world
-        population
+        Countries population percentage in {selectedYear} based on the world
+        (WLD) population
       </p>
       <dl>{chartDisplay()}</dl>
     </div>
